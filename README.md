@@ -15,12 +15,6 @@ We completed this project within a week.
 - Icons : [Font Awesome](https://fontawesome.com/)
 - References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/)
 
-## Tech Stack
-- HTML 5
-- CSS 3
-- JavaScript
-- Github
-
 **Client:** [anthropologie.com](https://www.anthropologie.com/)
 
 ## Features
@@ -34,13 +28,6 @@ We completed this project within a week.
 - Payment Page.
 - Address page for shipping products.
 
-## Credits
-
-- Images : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
-- Content : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
-- CSS Library: [Bootstrap](https://getbootstrap.com/) | [Tailwind CSS](https://tailwindcss.com/)
-- Icons : [Reacct-Font Awesome](https://fontawesome.com/)
-- References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/) | [React](https://reactjs.org/) | [React Redux](https://react-redux.js.org/)
 
 ## 🛠 Tech Stack
 
@@ -53,9 +40,9 @@ We completed this project within a week.
 
 ### 1. Landing page
 
-Our landing consists of some of the main functionalities such as location detection, search product part, login, Sign-Up, view profile, add to cart, product preview, increment and decrement of cart items, add and remove items from cart, proceed payment part, sliding images and products and many more.
+Our landing consists of some of the main functionalities such as options for products category, login, Sign-Up, product preview, sliding images and products and many more.
 
-![Home page](./bobbi-brown/src/Readme%20Images/1-HomePage.png)
+![Home page](https://miro.medium.com/max/720/1*vScltPRhxvxvIxpqluKoNg.png)
 
 ### 2. Registration Page
 
