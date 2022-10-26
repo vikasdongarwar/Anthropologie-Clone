@@ -1,36 +1,27 @@
-# Clone of https://www.anthropologie.com
+# Clone of anthropologie.com
 ![Gif](https://images.squarespace-cdn.com/content/v1/5c0e9a584611a089f03f7185/1574797900396-CDJS8EWJR84FD03ME1A1/Anthropologie-Logo.gif?format=1500w)
-[Bobbi Brown Cosmetics](https://www.bobbibrowncosmetics.com/) is a global prestige beauty brand that empowers women to embrace and enhance their individual beauty. 
-It has an Global instant delivery service. Customers of this company use the mobile application or website to order prestige beauty products online.
+[Anthropologie](https://www.anthropologie.com/) is a unique, full-lifestyle shopping destination, with a mostly exclusive assortment of clothing, shoes, accessories, beauty, furniture, home décor, garden, bridal, and more.
 
-Cloning [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/) was our project for Unit-4 Construct week at Masai School. Our main objective was to complete all main functionality of this e-commerce website , starting from sing up till buying of the products, and that too without refreshing or rerendering the website more than once throughout the operation.  
+Cloning [Anthropologie.com](https://www.anthropologie.com/) was our project for Unit-3 Construct week at Masai School. Our main objective was to complete all main functionality of this e-commerce website , starting from sing up till buying of the products.
 We completed this project within a week.
 
-- [Click here](https://bobbi-brown-clone-arshad-abhinav-yogesh-shivanshu-rahul-nikesh.netlify.app/) to preview our project.
-- [MD Arshad Khan](https://medium.com/@mdarshadkhan1998/clone-of-bobbibrowncosmetics-com-5e0baa7bd62b),[Shivanshu Chobey](https://medium.com/@shivanshuchobey5998/bobbibrown-com-website-clone-construct-week-unit-4-237dd9990d7c) Click here to view our Blog.
-- [Click here](https://drive.google.com/file/d/1bGrJOXcpS2e1ZPlwFjyBPsqSXb_5iucg/view?usp=sharing) to watch a brief preview of our project in video format.
-![Logo](./bobbi-brown/src/Readme%20Images/logo.png)
-
-[bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/) is a leading Women Cosmetics Products Ecommerce Website. Bobbi Brown is an American professional make-up artist, author, and the founder of Bobbi Brown Cosmetics. Brown created ten natural-shade lipsticks which according to Entrepreneur “revolutionized the beauty industry”. She has written nine books about beauty and wellness.
+- [Click here](https://bejewelled-speculoos-602810.netlify.app/) to preview our project.
+- [Click here](https://medium.com/@vikasdongarwar1012/collaborative-project-anthropologie-com-website-clone-71f284669d04) to view Blog.
+- [Click here](https://drive.google.com/file/d/1Y7eX7majrzbnHrPNCjNaPi7biwbN2V_R/view?usp=sharing) to watch a brief preview of our project in video format.
 
 ## Credits
-
-- Images : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
-- Content : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
-- CSS Library: [Bootstrap](https://getbootstrap.com/) | [Tailwind CSS](https://tailwindcss.com/) | [Material-UI](https://v4.mui.com/)
-- Icons : [Reacct-Font Awesome](https://fontawesome.com/)
-- References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/) | [React](https://reactjs.org/) | [React Redux](https://react-redux.js.org/)
+- Images : [anthropologie.com](https://www.anthropologie.com/)
+- Content : [anthropologie.com](https://www.anthropologie.com/)
+- Icons : [Font Awesome](https://fontawesome.com/)
+- References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/)
 
 ## Tech Stack
-- React
-- Redux
 - HTML 5
 - CSS 3
 - JavaScript
-- CSS Library — Bootstrap, Tailwind CSS, Material-UI
 - Github
 
-**Client:** [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
+**Client:** [anthropologie.com](https://www.anthropologie.com/)
 
 ## Features
 - Login | Sign Up | Profile | Offers and Toggled Navbars with their Pop-Ups.
@@ -55,12 +46,9 @@ We completed this project within a week.
 
 ## 🛠 Tech Stack
 
-- React
-- Redux
 - HTML
 - CSS
 - Javascript
-- CSS Library — Bootstrap. …Tailwind CSS. …
 - Github
 
 ## Screenshots of our Project for Overview
