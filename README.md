@@ -24,17 +24,15 @@ We completed this project within a week.
 **Client:** [anthropologie.com](https://www.anthropologie.com/)
 
 ## Features
-- Login | Sign Up | Profile | Offers and Toggled Navbars with their Pop-Ups.
-- Location Fetching using Geographical Location, lat and lng | custom Location Search.
-- Manual slider of products card for different categories.
-- Search bar for finding the product by it's name and viewing it.
+- Login | Sign Up and Toggled Navbars with their Pop-Ups.
+- Manual slider of products card.
 - Product page for different categories.
 - Detailed product preview page
-- Filters for custom price
-- Sort functions for High to Low and Low to High Price, Rating, Bestsellers, Name and Color.
+- Filters according to gender, color, cloths types. 
+- Hover on product card shows same products another available images.
 - Add to cart option for buying products.
 - Payment Page.
-- Media query for All Size Screen.
+- Address page for shipping products.
 
 ## Credits
 
