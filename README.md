@@ -81,6 +81,10 @@ Clicking on "ship to this address user redirected to this page. Here user can se
 ![payment screenshot](https://miro.medium.com/max/720/1*L5uPJtkA6EjdSGl67ylltg.png)
 
 
+##Demo
+[Click here](https://drive.google.com/file/d/1Y7eX7majrzbnHrPNCjNaPi7biwbN2V_R/view?usp=sharing) to watch our project preview in a video format.
+
+
 ## Challenges
 
 1. As every journey has some challenges and so was ours. In our team, all of the members were not familiar with each other so it was difficult for all of us to communicate and collaborate, there were some moments where members were not able to communicate with each other and had a conflict and it was hard for everyone to handle these conflicts.
@@ -102,20 +106,10 @@ Click on name to visit Github Account
 
 ## 🔗 Linkedin
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikesh-borkar/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-dongarwar-4254b0253/)
 
-
-[MD Arshad Khan](https://www.linkedin.com/in/md-arshad-khan-350206154/), 
-[Abhinav Roy](https://www.linkedin.com/in/abhinav-roy-35154120a/), 
-[Shivanshu Chobey](https://www.linkedin.com/in/shivanshu5998/), 
-[Yogesh Kumar](https://www.linkedin.com/in/yogeshkumar21101995/), 
-[Nikesh Borkar](https://www.linkedin.com/in/nikesh-borkar/),
-[Rahul Kumar](https://www.linkedin.com/in/md-arshad-khan-350206154/)
 
 ## Authors
-Click the name to visit their Github Profile
-- [Nikesh Borkar](https://github.com/NikeshBorkar)
+Click the name to visit Github Profile
+- [Vikas Dongarwar](https://github.com/vikasdongarwar)
 
-## Support
-
-For support, email - [nikeshborkar008@gmail.com](nikeshborkar008@gmail.com)
