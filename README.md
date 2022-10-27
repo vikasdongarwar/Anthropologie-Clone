@@ -22,7 +22,8 @@ We completed this project within a week.
 - Manual slider of products card.
 - Product page for different categories.
 - Detailed product preview page
-- Filters according to gender, color, cloths types. 
+- Filters according to gender, color, brands, cloths category. 
+- Sort by low to high price and high to low price.
 - Hover on product card shows same products another available images.
 - Add to cart option for buying products.
 - Payment Page.
@@ -51,55 +52,33 @@ If user didn't sign up then alert will pop out and tell to sign up first.
 
 ![Registration Page](https://miro.medium.com/max/720/1*2CYicsh8zRI0cHgyVcNovw.png)
 
-### 3. Search Part
 
-Here we can search for any specific item to look for its details and for adding it to the cart.
+### 3. Product Page
 
-![Search Part](./bobbi-brown/src/Readme%20Images/2-search.png)
-
-### 4. Pop-Up Part
-
-In this we are having 2 different navbars which toggles after scrolling to a particular height. And we can also See popup functionality on both of the navbars.
-
-![Search Page](./bobbi-brown/src/Readme%20Images/3-PopupPart.png)
-
-### 5. Map Functionality
-
-Here in mapping part our location gets fetched automatically after allowing our geological location, or else we can also search for some custom location.
-
-![Search Page](./bobbi-brown/src/Readme%20Images/5-map.png)
-
-### 6. Product Page
-
-This the sample of a product Page for Best Sellers, and similarly we have different pages based on new comings, popularity and many more, here I have added Sorting functionality for each page based on Price, Rating, Name, Category and Best Sellers.
+Here we added sorting functionality based on Gender, Brand name, Cloths category and Colors. Here we can search for cloths according to type of gender.
 And apart from this we can also click on any item to see its details and add it to cart.
 
-![Search Page](./bobbi-brown/src/Readme%20Images/6-ProductPage.png)
+![Search Page](https://miro.medium.com/max/720/1*e-WWtqaTQPcJKd7jp6BYqw.png)
 
-### 7. Single Product Detailed Page
+### 4. Single Product Detailed Page
 
-Here we can see the details of the selected item just by a single click.
+Here we can see the details of the selected item just by a single click. Here user able to select quantity and size of selected product and on clicking add to basket button pop-up comes out where selected cloths specification details and checkout button will show. On clicking checkout button user redirected to cart page.
 
-![Search Page](./bobbi-brown/src/Readme%20Images/7-SingleProductPage.png)
+![Search Page](https://miro.medium.com/max/720/1*Dq3_I9E1shhUyHnQ8f-ONQ.png)
 
-### 8. Cart page
+### 5. Cart page
 
-After adding all the required grocery items we can go to cart where all selected items will be displayed and here in cart we can increase , decrease or remove items from the cart.
+After adding all the required grocery items we can go to cart where all selected items will be displayed and here in cart we can increase , decrease or remove items from the cart. User redirected to address dettail page on clicking to "proceed to checkout" button.
 
-![Website Screenshot](./bobbi-brown/src/Readme%20Images/8-Cart.png)
+![Website Screenshot](https://miro.medium.com/max/720/1*kgmhdVSrUvCW04BHEtnY5A.png)
 
-### 9. Offers page
 
-Here we can utilize some facility of different offers.
+### 6. Payment page
 
-![Website Screenshot](./bobbi-brown/src/Readme%20Images/9-Offers%20_Part.png)
-![Website Screenshot](./bobbi-brown/src/Readme%20Images/11-Offers%20Part.png)
+Clicking on "ship to this address user redirected to this page. Here user can select any of the suggested payment method and needs to give Credit/debit card detail to proceed with the payment. On clicking "place order" button user redirected to page where user needs to confirm payment.
 
-### 10. Payment Checkout Products
-
-After clicking on proceed button of cart, we will be redirected to payment page, where we can select any of the suggested payment method to proceed with the payment. After this we will be asked to enter contact number along with some other details and after verifying the OTP we will be redirected us to the home page.
-
-![Website Screenshot](./bobbi-brown/src/Readme%20Images/10-Paument_Checkout.png)
+![Website Screenshot](https://miro.medium.com/max/720/1*EtYPpMSUedqS_tYqQgDtPg.png)
+![payment screenshot](https://miro.medium.com/max/720/1*L5uPJtkA6EjdSGl67ylltg.png)
 
 
 ## Challenges
