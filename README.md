@@ -44,12 +44,12 @@ Our landing consists of some of the main functionalities such as options for pro
 
 ![Home page](https://miro.medium.com/max/720/1*vScltPRhxvxvIxpqluKoNg.png)
 
-### 2. Registration Page
+### 2. Login/signup Page
 
-Here in Login part, the user need to fill the correct credentials to log in, and if input type mismatches then it will throw an error to "Enter a valid Credential"
-Once we are done with Login part we will be redirected to OTP page and after submitting correct OTP it will take you to the Home Page.
+Here in Login part, the user need to fill the correct credentials to log in, and if input type mismatches then it will throw an error to "Enter a valid Credential".
+If user didn't sign up then alert will pop out and tell to sign up first.
 
-![Registration Page](./bobbi-brown/src/Readme%20Images/4-Signup_Login.png)
+![Registration Page](https://miro.medium.com/max/720/1*2CYicsh8zRI0cHgyVcNovw.png)
 
 ### 3. Search Part
 
