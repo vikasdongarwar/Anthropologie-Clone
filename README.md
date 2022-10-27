@@ -81,7 +81,7 @@ Clicking on "ship to this address user redirected to this page. Here user can se
 ![payment screenshot](https://miro.medium.com/max/720/1*L5uPJtkA6EjdSGl67ylltg.png)
 
 
-##Demo
+## Demo
 [Click here](https://drive.google.com/file/d/1Y7eX7majrzbnHrPNCjNaPi7biwbN2V_R/view?usp=sharing) to watch our project preview in a video format.
 
 
