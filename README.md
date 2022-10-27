@@ -78,7 +78,7 @@ After adding all the required grocery items we can go to cart where all selected
 Clicking on "ship to this address user redirected to this page. Here user can select any of the suggested payment method and needs to give Credit/debit card detail to proceed with the payment. On clicking "place order" button user redirected to page where user needs to confirm payment.
 
 ![Website Screenshot](https://miro.medium.com/max/720/1*EtYPpMSUedqS_tYqQgDtPg.png)
-[payment screenshot](https://miro.medium.com/max/720/1*L5uPJtkA6EjdSGl67ylltg.png)
+![payment screenshot](https://miro.medium.com/max/720/1*L5uPJtkA6EjdSGl67ylltg.png)
 
 
 ## Challenges
@@ -87,28 +87,22 @@ Clicking on "ship to this address user redirected to this page. Here user can se
 
 2. Another problem was to merge all of the files in a proper sequence which was again a difficult task for us because while merging and connecting all the pages some of the pages had the same name, and while running the site it was redirecting to some other pages so it was difficult to find the location and to rename the file.
 
-3. As there were 2 different navbars in this which were toggling after scrolling to a certain height, So it was very difficult to apply the flag on that part in order toggle it.
+3. We faced challenges with CSS, as few of the team members used same classes, id's name, which created an unpredictable conflict in the CSS Part.
 
-4. We faced challenges with CSS, as few of the team members used Bootstrap and Material-UI and remaining few members unknowingly used the same name class which already existed in bootstrap, which created an unpredictable conflict in the CSS Part.
-
-5. We faced difficulties to manage the routes, page, dependencies to work at a time.
-
-6. One of the main challenge faced by us was while making Popups for navbar and while finding the geological location and fetching an approximate location of used once he allows permission for live location.
+4. Our one team member was unable to join us after worked for only one day because he was stuck in flood. So we all were divide that member task in between us and complete.
  
-7. The main challenge of ours was to run the whole project without rerendering or reloading.
 
 ## Team
 Click on name to visit Github Account
-- [MD Arshad Khan](https://github.com/mdarshadkhan1998)
-- [Abhinav Roy](https://github.com/abhinavroy121)
-- [Shivanshu Chobey](https://github.com/Shivanshu5998s)
-- [Yogesh Kumar](https://github.com/iYogeshkumar)
-- [Nikesh Borkar](https://github.com/NikeshBorkar)
-- [Rahul Kumar](https://github.com/krRahul10)
+- [Suraj](https://github.com/suraj9716)
+- [Priyanshu Kumar](https://github.com/priyanshu18012)
+- [Vikas Dongarwar](https://github.com/vikasdongarwar)
+- Rahul deb
+- [Theja Swaroop](https://github.com/Swarooptheja)
 
 ## 🔗 Linkedin
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikesh-borkar/)
+[![linkedin]()
 
 
 [MD Arshad Khan](https://www.linkedin.com/in/md-arshad-khan-350206154/), 
