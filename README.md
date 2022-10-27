@@ -78,7 +78,7 @@ After adding all the required grocery items we can go to cart where all selected
 Clicking on "ship to this address user redirected to this page. Here user can select any of the suggested payment method and needs to give Credit/debit card detail to proceed with the payment. On clicking "place order" button user redirected to page where user needs to confirm payment.
 
 ![Website Screenshot](https://miro.medium.com/max/720/1*EtYPpMSUedqS_tYqQgDtPg.png)
-![payment screenshot](https://miro.medium.com/max/720/1*L5uPJtkA6EjdSGl67ylltg.png)
+[payment screenshot](https://miro.medium.com/max/720/1*L5uPJtkA6EjdSGl67ylltg.png)
 
 
 ## Challenges
